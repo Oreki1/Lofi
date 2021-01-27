@@ -1,2 +1,1 @@
-# Lofi
-Lofi
+# 24-7-Discord-Music-Bot
